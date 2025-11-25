@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Whack-a-Mole</string>
+    <string name="play_game">Play Game</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="enter_name">Enter name</string>
+    <string name="avatar_colour">Avatar Colour</string>
+    <string name="submit">Submit</string>
+    <string name="timer_text">Time: %d</string>
+    <string name="score_text">Score: %d</string>
+    <string name="leaderboard_title">Leaderboard</string>
+    <string name="avatar_grey">Grey</string>
+    <string name="avatar_blue">Blue</string>
+    <string name="avatar_orange">Orange</string>
+    <string name="avatar_green">Green</string>
+    <string name="avatar_purple">Purple</string>
+    <string name="avatar_pink">Pink</string>
+</resources>
