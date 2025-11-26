@@ -100,7 +100,7 @@ public class GameLogic {
         currentMoleIndex = index;
         Mole mole = moles.get(index);
         mole.setVisible(true);
-        mole.getImageView().setImageResource(R.drawable.img_mole);
+        mole.getImageView().setImageResource(R.drawable.img_blue_mole);
     }
 
     private void hideMole() {
